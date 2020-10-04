@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ROAM V.2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_map">Map</string>
+    <string name="box">\t\t\tWe Recommend: \n<i><b>\t\tLemongrass Fish Kit</b></i>\n\t\t\tFrom<b> SukhoTHAI</b>\n\t\t\tfor your next box :)</string>
+    <string name="google_maps_key">AIzaSyDoaxdT6WO_n4MlFK3_U0QNhqENG7a2n7U</string>
+</resources>

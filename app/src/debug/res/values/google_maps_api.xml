@@ -1,0 +1,46 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=D6:32:7F:4C:32:ED:36:5B:C3:2D:19:F0:37:B0:9E:0A:8A:C6:6B:7E%3Bnightout.damian.v002
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    nightout.damian.v002
+
+    SHA-1 certificate fingerprint:
+    D6:32:7F:4C:32:ED:36:5B:C3:2D:19:F0:37:B0:9E:0A:8A:C6:6B:7E
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="AIzaSyDoaxdT6WO_n4MlFK3_U0QNhqENG7a2n7U" templateMergeStrategy="preserve" translatable="false">YOUR_KEY_HERE</string>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=D6:32:7F:4C:32:ED:36:5B:C3:2D:19:F0:37:B0:9E:0A:8A:C6:6B:7E%3Bnightout.damian.v002.ui
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    nightout.damian.v002.ui
+
+    SHA-1 certificate fingerprint:
+    D6:32:7F:4C:32:ED:36:5B:C3:2D:19:F0:37:B0:9E:0A:8A:C6:6B:7E
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" translatable="false">AIzaSyA40wwTz40yGH5u5Rzzo6UWVeKaULB3g_w</string>
+</resources>
